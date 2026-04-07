@@ -1,6 +1,3 @@
-# childcare-desert-elimination
-Mixed-integer optimization model for eliminating childcare deserts in New York State using Gurobi
-
 # Eliminating Child Care Deserts in New York State through Optimization
 
 ## Overview
